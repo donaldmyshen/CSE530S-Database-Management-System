@@ -1,0 +1,9 @@
+{ "item": "audi", "instock": [ { "warehouse": "A", "qty": 5 }, { "warehouse": "C", "qty": 5 } ] }
+	
+{ "item": "honda", "instock": [ { "warehouse": "C", "qty": 20 } ] }
+	
+{ "item": "bmw", "instock": [ { "warehouse": "A", "qty": 20 }, { "warehouse": "B", "qty": 10 } ] }
+	
+{ "item": "ford", "instock": [ { "warehouse": "A", "qty": 30 }, { "warehouse": "B", "qty": 10 } ] }
+	
+{ "item": "benz", "instock": [ { "warehouse": "B", "qty": 35 }, { "warehouse": "C", "qty": 15 } ] }
